@@ -1,0 +1,25 @@
+{
+  "name": "gattuuids",
+  "version": "1.0.0",
+  "description": "provides GATT uuids for use in Bluetooth le",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jd1378/gattuuids.git"
+  },
+  "keywords": [
+    "gatt",
+    "ble",
+    "uuid"
+  ],
+  "author": "Javad Mnjd <javad.mnjd@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jd1378/gattuuids/issues"
+  },
+  "homepage": "https://github.com/jd1378/gattuuids#readme",
+  "dependencies": {}
+}
